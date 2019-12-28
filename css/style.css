@@ -109,10 +109,13 @@ p {
   height: 50px;
   line-height: 50px;
   padding: 0 30px;
+  margin: 10px;
   text-transform: uppercase;
 }
 
+
 .btn:hover, .btn:focus {
+  background: #b8a07e;
   color: #fff;
 }
 
@@ -171,6 +174,8 @@ p {
 .mb-30 {
   margin-bottom: 30px;
 }
+
+
 
 /*-----------------------------------------------------------------------------------*/
 /*  Navbar Top
